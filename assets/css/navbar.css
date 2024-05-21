@@ -1,0 +1,6 @@
+/*Navbar background*/
+.bg-orange {
+    color: var(--bg-white);
+    background-color: var(--bg-orange);
+    font-weight: 400;
+}
