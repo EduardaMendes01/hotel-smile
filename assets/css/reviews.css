@@ -1,0 +1,5 @@
+.star svg{
+    width: 18px;
+    height: 18px;
+    filter: invert(88%) sepia(12%) saturate(6906%) hue-rotate(344deg) brightness(92%) contrast(116%);
+}
