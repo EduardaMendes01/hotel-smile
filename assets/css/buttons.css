@@ -1,6 +1,6 @@
 .btn-orange {
     color: var(--bg-white);
-    background-color: var(--bg-orange);
+    background-color: var(--color03);
     outline: none;
     box-shadow: none;
     font-size: 1rem;
@@ -10,13 +10,13 @@
 
 .btn-orange:hover {
     color: var(--bg-white);
-    background-color: var(--bg-orange-hover);
+    background-color: var(--color-hover);
 }
 
 .btn-orange-outline{
-    color: var(--bg-orange);
+    color: var(--color03);
     background-color: transparent;
-    outline: 2px solid var(--bg-orange);
+    outline: 2px solid var(--color03);
     box-shadow: none;
     font-size: 1rem;
     font-family: "Roboto Condensed", sans-serif;
@@ -25,7 +25,7 @@
 
 .btn-orange-outline:hover{
     color: var(--bg-white);
-    background-color: var(--bg-orange);
+    background-color: var(--color03);
     border-radius: 0px;
     outline: none;
 }
@@ -33,7 +33,7 @@
 .btn-tooltip-defaut{
     width: auto;
     height: auto;
-    color: var(--bg-orange);
+    color: var(--color03);
     background-color: transparent;
     box-shadow: none;
     padding: 0px;
@@ -42,7 +42,7 @@
 }
 
 .btn-tooltip-defaut:hover{
-    color: var(--bg-orange-hover);
+    color: var(--color-hover);
     background-color: transparent;
     box-shadow: none;
     padding: 0px;
@@ -51,7 +51,7 @@
 
 .btn-login{
     color: var(--bg-white);
-    background-color: var(--bg-orange);
+    background-color: var(--color03);
     outline: none;
     box-shadow: none;
     font-size: 1rem;
@@ -61,6 +61,6 @@
 
 .btn-login:hover{
     color: var(--bg-white);
-    background-color: var(--bg-orange-hover);
+    background-color: var(--color-hover);
 }
 

@@ -1,6 +1,6 @@
 .bg-color-orange {
     color: var(--bg-white);
-    background-color: var(--bg-orange);
+    background-color: var(--color03);
 }
 .bg-color-pink {
     color: var(--bg-white);

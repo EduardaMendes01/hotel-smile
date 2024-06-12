@@ -12,14 +12,19 @@
 
 /*Color Settings*/
 :root{
-    --bg-orange:       #FA6A05;
-    --bg-orange-hover: #D85F08;
+    --color-hover: #D85F08;
     --bg-black:        #000000;
     --bg-brown-1:      #757575;
     --bg-brown-2:      #F4F4F4;
     --bg-white:        #FFFFFF;
     --bg-yellow:       #FCB705;
     --bg-pink:         #E9008C;
+
+    --color03:#B0A8BF;
+    --color02:#5A90BF;
+    --color03:#022840;
+    --color04:#D9BCA3;
+    --color05:#8C2727;
 }
 html, body{
     font-size: 16px;
